@@ -1,0 +1,8 @@
+id,nombre,descripcion,created_at,updated_at,deleted_at
+1,"Turno matutino","Turno matutino: lunes a viernes 7:00-14:30 y 8:00 -13:30","2018-02-01 11:48:55","2018-02-01 11:48:55",NULL
+2,"Turno vespertino","Turno vespertino:lunes a viernes 13:00-20:30 y 14:00-21:30","2018-02-01 11:48:55","2018-02-01 11:48:55",NULL
+3,"Turno nocturno A","Turno nocturno A: lunes, miércoles y viernes 20:00-8:00","2018-02-01 11:48:55","2018-02-01 11:48:55",NULL
+4,"Turno nocturno B","Turno nocturno B: martes, jueves y sábado 20:00-8:00","2018-02-01 11:48:55","2018-02-01 11:48:55",NULL
+5,"Fin de semana y días festivos mixto","Fin de semana y días festivos mixto: 8:00-20:00 ","2018-02-01 11:48:55","2018-02-01 11:48:55",NULL
+6,"Fin de semana y días festivos mixto nocturno","Fin de semana y días festivos mixto nocturno: 20:00-8:00","2018-02-01 11:48:55","2018-02-01 11:48:55",NULL
+7,"Turo nocturno C","Turno nocturno C especial.","2018-02-01 11:48:55","2018-02-01 11:48:55",NULL

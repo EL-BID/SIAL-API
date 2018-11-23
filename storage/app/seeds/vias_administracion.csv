@@ -1,0 +1,56 @@
+id,nombre,created_at,updated_at,deleted_at
+1,"Bucal por inhalación","2018-02-01 11:48:55","2018-02-01 11:48:55",NULL
+2,Cutánea,"2018-02-01 11:48:55","2018-02-01 11:48:55",NULL
+3,"Cutánea o piel cabelluda","2018-02-01 11:48:55","2018-02-01 11:48:55",NULL
+4,"Implante en el sitio de infección","2018-02-01 11:48:55","2018-02-01 11:48:55",NULL
+5,Infiltración,"2018-02-01 11:48:55","2018-02-01 11:48:55",NULL
+6,"Infiltración local o subaracnoidea","2018-02-01 11:48:55","2018-02-01 11:48:55",NULL
+7,"Infusión intravenosa","2018-02-01 11:48:55","2018-02-01 11:48:55",NULL
+8,"Infusión intravenosa (30 – 60 minutos)","2018-02-01 11:48:55","2018-02-01 11:48:55",NULL
+9,"Infusión intravenosa (60 - 90 minutos)","2018-02-01 11:48:55","2018-02-01 11:48:55",NULL
+10,"Infusión intravenosa (60 min)","2018-02-01 11:48:55","2018-02-01 11:48:55",NULL
+11,"Infusión intravenosa lenta (20-120 minutos) Inyección intravenosa (1-3 minutos).","2018-02-01 11:48:55","2018-02-01 11:48:55",NULL
+12,"Infusión intravenosa u oral","2018-02-01 11:48:55","2018-02-01 11:48:55",NULL
+13,Inhalación,"2018-02-01 11:48:55","2018-02-01 11:48:55",NULL
+14,Intramuscular,"2018-02-01 11:48:55","2018-02-01 11:48:55",NULL
+15,"Intramuscular en la región deltoidea del brazo derecho","2018-02-01 11:48:55","2018-02-01 11:48:55",NULL
+16,"Intramuscular o intraarticular o intralesional","2018-02-01 11:48:55","2018-02-01 11:48:55",NULL
+17,"Intramuscular o Intravenosa lenta","2018-02-01 11:48:55","2018-02-01 11:48:55",NULL
+18,"Intramuscular o intravenosa lenta (5 a 10 minutos)","2018-02-01 11:48:55","2018-02-01 11:48:55",NULL
+19,"Intramuscular o intravenosa o infusión intravenosa","2018-02-01 11:48:55","2018-02-01 11:48:55",NULL
+20,"Intramuscular o intravenosa o intraarticular","2018-02-01 11:48:55","2018-02-01 11:48:55",NULL
+21,"Intramuscular o intravenosa o subcutánea","2018-02-01 11:48:55","2018-02-01 11:48:55",NULL
+22,"Intramuscular o subcutánea o infusión intravenosa","2018-02-01 11:48:55","2018-02-01 11:48:55",NULL
+23,"Intramuscular profunda","2018-02-01 11:48:55","2018-02-01 11:48:55",NULL
+24,"Intramuscular profunda o intravenosa","2018-02-01 11:48:55","2018-02-01 11:48:55",NULL
+25,Intranasal,"2018-02-01 11:48:55","2018-02-01 11:48:55",NULL
+26,"Intrarraquidea o infiltración","2018-02-01 11:48:55","2018-02-01 11:48:55",NULL
+27,Intravenosa,"2018-02-01 11:48:55","2018-02-01 11:48:55",NULL
+28,"Intravenosa (infusión central o periférica)","2018-02-01 11:48:55","2018-02-01 11:48:55",NULL
+29,"Intravenosa en infusión contínua","2018-02-01 11:48:55","2018-02-01 11:48:55",NULL
+30,"Intravenosa lenta","2018-02-01 11:48:55","2018-02-01 11:48:55",NULL
+31,"Intravenosa o infusión continua","2018-02-01 11:48:55","2018-02-01 11:48:55",NULL
+32,"Intravenosa o intramuscular","2018-02-01 11:48:55","2018-02-01 11:48:55",NULL
+33,"Intravenosa o intramuscular o epidural","2018-02-01 11:48:55","2018-02-01 11:48:55",NULL
+34,"Intravenosa o subcutánea","2018-02-01 11:48:55","2018-02-01 11:48:55",NULL
+35,"Intravenosa: bolo seguido de infusión","2018-02-01 11:48:55","2018-02-01 11:48:55",NULL
+36,"Intravenosa: bolo único en 5-10 seg","2018-02-01 11:48:55","2018-02-01 11:48:55",NULL
+37,Local,"2018-02-01 11:48:55","2018-02-01 11:48:55",NULL
+38,Oftálmica,"2018-02-01 11:48:55","2018-02-01 11:48:55",NULL
+39,Oral,"2018-02-01 11:48:55","2018-02-01 11:48:55",NULL
+40,"Oral o intramuscular o infusión intravenosa","2018-02-01 11:48:55","2018-02-01 11:48:55",NULL
+41,"Oral o sonda enteral","2018-02-01 11:48:55","2018-02-01 11:48:55",NULL
+42,"Oral o subingual","2018-02-01 11:48:55","2018-02-01 11:48:55",NULL
+43,"Oral por inhalación","2018-02-01 11:48:55","2018-02-01 11:48:55",NULL
+44,"Por inhalación","2018-02-01 11:48:55","2018-02-01 11:48:55",NULL
+45,Rectal,"2018-02-01 11:48:55","2018-02-01 11:48:55",NULL
+46,Subcutánea,"2018-02-01 11:48:55","2018-02-01 11:48:55",NULL
+47,"Subcutánea (utilizando autoinyector de aguja oculta).","2018-02-01 11:48:55","2018-02-01 11:48:55",NULL
+48,"Subcutánea en el área abdominal","2018-02-01 11:48:55","2018-02-01 11:48:55",NULL
+49,"Subcutánea o intramuscular","2018-02-01 11:48:55","2018-02-01 11:48:55",NULL
+50,"Subcutánea profunda","2018-02-01 11:48:55","2018-02-01 11:48:55",NULL
+51,"Subcutánea profunda o intravascular (línea arterial del circuito)","2018-02-01 11:48:55","2018-02-01 11:48:55",NULL
+52,Sublingual,"2018-02-01 11:48:55","2018-02-01 11:48:55",NULL
+53,Tópica,"2018-02-01 11:48:55","2018-02-01 11:48:55",NULL
+54,Transdérmica,"2018-02-01 11:48:55","2018-02-01 11:48:55",NULL
+55,Vaginal,"2018-02-01 11:48:55","2018-02-01 11:48:55",NULL

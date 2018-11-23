@@ -1,0 +1,4 @@
+id,clave,nombre,status,usuario_id,created_at,updated_at,deleted_at
+1,0001,"Compra consolidada",1,root,"2018-02-01 11:48:55","2018-02-01 11:48:55",NULL
+2,0002,"Pedido Invierno",1,root,"2018-02-01 11:48:55","2018-02-01 11:48:55",NULL
+3,0003,"COMPRA BLACKSAL",1,root,"2018-02-01 11:48:55","2018-02-01 11:48:55",NULL

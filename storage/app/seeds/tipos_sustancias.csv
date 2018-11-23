@@ -1,0 +1,5 @@
+id,nombre,usuario_id,created_at,updated_at,deleted_at
+1,"SUST QUIM",root,"2018-02-01 11:48:55","2018-02-01 11:48:55",NULL
+2,MATERIAL,root,"2018-02-01 11:48:55","2018-02-01 11:48:55",NULL
+3,"PROD QUIMI",root,"2018-02-01 11:48:55","2018-02-01 11:48:55",NULL
+4,CONSUMIBLES,root,"2018-02-01 11:48:55","2018-02-01 11:48:55",NULL

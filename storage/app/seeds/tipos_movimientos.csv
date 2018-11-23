@@ -1,0 +1,19 @@
+id,tipo,nombre,created_at,updated_at,deleted_at
+1,E,Entrada Manual,2018-02-01 11:48:55,2018-02-01 11:48:55,NULL
+2,S,Salida Manual,2018-02-01 11:48:55,2018-02-01 11:48:55,NULL
+3,S,Entrega de Pedido,2018-02-01 11:48:55,2018-02-01 11:48:55,NULL
+4,E,Recepción de Pedido,2018-02-01 11:48:55,2018-02-01 11:48:55,NULL
+5,S,Surtimiento de Receta,2018-02-01 11:48:55,2018-02-01 11:48:55,NULL
+6,E,Ajuste Más,2018-02-01 11:48:55,2018-02-01 11:48:55,NULL
+7,S,Ajuste Menos,2018-02-01 11:48:55,2018-02-01 11:48:55,NULL
+8,E,Entrada desde pedido a Farmacia Subrogada,2018-02-01 11:48:55,2018-02-01 11:48:55,NULL
+9,E,Recepción Pedido entre Almacenes,2018-02-01 11:48:55,2018-02-01 11:48:55,NULL
+11,E,Entrada Almacén Gral.,2017-10-25 05:00:00,NULL,NULL
+12,S,Salida Almacén Gral.,2017-10-25 05:00:00,NULL,NULL
+13,E,Entrada Laboratorio,2017-10-01 05:00:00,NULL,NULL
+14,S,Salida Laboratorio,2017-10-01 05:00:00,NULL,NULL
+15,E,X1,2018-01-24 00:00:00,NULL,NULL
+16,S,X2,2018-01-24 00:00:00,NULL,NULL
+17,E,Entrada a Almacén Modelo Standard,2018-01-24 00:00:00,NULL,NULL
+18,S,Salida de Almacén Modelo Standard,2018-01-24 00:00:00,NULL,NULL
+19,E,Inicializacion De Inventario,2018-02-01 00:00:00,NULL,NULL

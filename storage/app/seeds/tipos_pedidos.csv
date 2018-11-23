@@ -1,0 +1,8 @@
+id,nombre,created_at,updated_at,deleted_at
+PA,"Pedido de Abastecimiento","2018-02-01 11:48:55","2018-02-01 11:48:55",NULL
+PALT,"Pedido Alterno","2018-02-01 11:48:55","2018-02-01 11:48:55",NULL
+PD,"Pedido por Desabasto","2018-02-01 11:48:55","2018-02-01 11:48:55",NULL
+PEA,"Pedido Entre Almacenes","2018-02-01 11:48:55","2018-02-01 11:48:55",NULL
+PFS,"Pedido a Farmacia Subrogada","2018-02-01 11:48:55","2018-02-01 11:48:55",NULL
+PI,"Pedido Interno","2018-02-01 11:48:55","2018-02-01 11:48:55",NULL
+PJS,"Pedidos Jurisdiccionales","2018-02-01 11:48:55","2018-02-01 11:48:55",NULL
