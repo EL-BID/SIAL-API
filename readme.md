@@ -1,6 +1,6 @@
 *Esta herramienta digital forma parte del catálogo de herramientas del **Banco Interamericano de Desarrollo**. Puedes conocer más sobre la iniciativa del BID en [code.iadb.org](https://code.iadb.org)*
 
-## API del Sistema de Gestión de Incidencias en Salud SIAL
+## API del Sistema de Gestión de Incidencias en Salud SIAL .   
 
 [![Build Status](https://travis-ci.org/EL-BID/SIAL-API.svg?branch=master)](https://travis-ci.org/EL-BID/SIAL-API)
 
