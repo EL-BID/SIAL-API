@@ -3,8 +3,9 @@
 ## API del Sistema de Gestión de Incidencias en Salud SIAL .   
 
 [![Build Status](https://travis-ci.org/EL-BID/SIAL-API.svg?branch=master)](https://travis-ci.org/EL-BID/SIAL-API)
-[![Analytics](https://gabeacon.irvinlim.com/UA-4677001-16/SIAL-API/readme?useReferer)](https://github.com/EL-BID/SIAL-API)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=EL-BID_SIAL-API&metric=alert_status)](https://sonarcloud.io/dashboard?id=EL-BID_SIAL-API)
+![analytics image (flat)](https://raw.githubusercontent.com/vitr/google-analytics-beacon/master/static/badge-flat.gif)
+![analytics](https://www.google-analytics.com/collect?v=1&cid=555&t=pageview&ec=repo&ea=open&dp=/SIAL-API/readme&dt=&tid=UA-4677001-16)
 
 ### Descripción y contexto
 ---
